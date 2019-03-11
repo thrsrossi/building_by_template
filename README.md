@@ -5,3 +5,4 @@ Recieved graphic profile, mockups, wireframes from other student in class - buil
 follow design as closely as possible, use SCSS, make accessible and responsive
 
 Design Jakob Edéus
+See folder - mockups
